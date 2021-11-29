@@ -250,7 +250,7 @@ header {
 
 .my-services {
     color: var(--clr-dark);
-    background-image: url(../../images/services-bg.jpg);
+    background-image: url('images/services-bg.jpg');
     font-size: 20px;
     font-weight: bold;
     background-size: cover;
