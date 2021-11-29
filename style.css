@@ -249,7 +249,6 @@ header {
 /* services */
 
 .my-services {
-    background-color: var(--clr-dark);
     color: var(--clr-dark);
     background-image: url(../Portfolio/images/services-bg.jpg);
     font-size: 20px;
